@@ -1,0 +1,12 @@
+[package]
+name = "ppm"
+version = "0.1.0"
+authors = ["dyor (Arnauld) <augustinville@yahoo.fr>","DjamelRAAB <djamel.r.75@gmail.com>","Zohir MALTI <zohirmalti@gmail.com>","AMINEFAIZ <aminefaiz.info@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+libc = "0.2"
+cty = "0.2.1"
+map_in_place = "0.1.0"

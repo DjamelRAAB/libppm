@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_with_binary_file","Function read in binary mode a ppm image, they need path access to file `ignore // To use it :  let path : Path = Path::new(\"file.ppm\"); let image_loaded_with_file : Image = new_with_file(&path); `"],["read_header","Function to read a header"]]});
